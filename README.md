@@ -2,7 +2,7 @@
 To see this project in action, [click here](https://youtu.be/t-CPmC0bTAk).
 
 # What is this project?
-This project is a basic sorting alsorithm visualiser created by myself and a few friends as a side project at university. This project includes primarily JavaScript along with some HTML and CSS.
+This project is a basic sorting algorithm visualiser created by myself and a few friends as a side project at university. This project includes primarily JavaScript along with some HTML and CSS.
 
 # What was my contribution?
 I wanted to hone in on my HTML and CSS skills for this project, as I had never really done much of either before, so this was a good challenge to learn how to position different divs and how to structure something so it looks good!
